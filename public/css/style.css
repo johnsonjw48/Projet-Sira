@@ -1,0 +1,12 @@
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+header{
+  background-image: url("../images/header.jpg");
+  padding-bottom: 30%;
+  background-size: cover;
+  background-position-y: -204px;
+  background-repeat: repeat;
+}
